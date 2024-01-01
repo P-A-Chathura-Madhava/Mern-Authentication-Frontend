@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.inner_container_login {
+  margin-top: 100px;
+  width: 400px;
+  padding: 20px;
+  -webkit-box-shadow: 14px 22px 21px 4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 14px 22px 21px 4px rgba(0, 0, 0, 0.75);
+  box-shadow: 14px 22px 21px 4px rgba(0, 0, 0, 0.75);
+}
+
+.inner_container_register {
+    margin-top: 20px;
+    width: 400px;
+    padding: 20px;
+    -webkit-box-shadow: 14px 22px 21px 4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 14px 22px 21px 4px rgba(0, 0, 0, 0.75);
+    box-shadow: 14px 22px 21px 4px rgba(0, 0, 0, 0.75);
+}
+
+.login_heading {
+  margin: 0;
+  padding: 0;
+}
+
+.error {
+  color: red;
+}
+
+/* Dashboard */
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+.paddingall {
+  padding: 10px 10px 10px 10px;
+}
+
+.pricetitle {
+  font-weight: 600;
+}
+
+.pricesubtitle {
+  font-size: 14px;
+}
+
+.iconstyle {
+  margin-top: 20px;
+  margin-left: 20px;
+  color: aliceblue;
+}
+
+.iconstyleblack {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.gradient {
+  background: rgb(40, 34, 70);
+  background: linear-gradient(158deg, rgba(40, 34, 70, 1) 0%, rgba(30, 47, 141, 1) 100%);
+}
+
+.gradientlight {
+  background: rgb(53, 138, 148);
+  background: linear-gradient(158deg, rgba(53, 138, 148, 1) 0%, rgba(91, 180, 96, 1) 100%);
+}
+
+.bgcolor {
+  min-height: 100vh;
+  background: #ECEFF1;
+  background: linear-gradient(158deg, rgba(224, 224, 224) 0%, rgb(233, 237, 254) 100%);
+}
+
+/* Login Page */
+.error {
+  color: red;
+}
+/* Login Page Ends */
+
+/* Bar Chart */
+.barChart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Bar Chart Ends */
+
+/* Dashboard ends */
